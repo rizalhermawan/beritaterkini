@@ -1,0 +1,24 @@
+{
+  "redirects": [
+    {
+      "source": "/shopee",
+      "destination": "URL_SHOPEE",
+      "permanent": false
+    },
+    {
+      "source": "/tokopedia",
+      "destination": "URL_TOKOPEDIA",
+      "permanent": false
+    },
+    {
+      "source": "/wa",
+      "destination": "URL_WHATSAPP",
+      "permanent": false
+    },
+    {
+      "source": "/tiktok",
+      "destination": "https://vt.tokopedia.com/t/ZS92KTfGHp6HJ-KoFZk/",
+      "permanent": false
+    }
+  ]
+}
